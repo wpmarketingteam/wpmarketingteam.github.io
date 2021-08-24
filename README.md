@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+you can view it here: 
+https://wpmarketingteam.github.io/index
 
 You can use the [editor on GitHub](https://github.com/wpmarketingteam/wpmarketingteam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
