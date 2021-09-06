@@ -1,4 +1,11 @@
 ## Welcome to GitHub Pages
+
+To get any new tasks please visit: [the mapping task board](https://github.com/orgs/wpmarketingteam/projects/3) to add things to this board please add a card and past the URL to the apporiate issue :) 
+
+
+
+
+
 you can view it here: 
 https://wpmarketingteam.github.io/index
 
