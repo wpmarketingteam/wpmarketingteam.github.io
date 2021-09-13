@@ -1,5 +1,7 @@
 ## Welcome to the WP Marketing Github 
 
+###To get any new tasks please visit: the mapping task board to add things to this board please add a card and past the URL to the apporiate issue :)
+
 You can use the [editor on GitHub](https://github.com/wpmarketingteam/wpmarketingteam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
