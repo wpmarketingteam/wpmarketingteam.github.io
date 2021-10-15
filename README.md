@@ -1,15 +1,14 @@
 ## Welcome to GitHub Pages
 
-To get any new tasks please visit: [the mapping task board](https://github.com/orgs/wpmarketingteam/projects/3) to add things to this board please add a card and past the URL to the apporiate issue :) 
+To view tasks displayed by what skills or background experience you may find useful, can be found on: [the mapping task board](https://github.com/orgs/wpmarketingteam/projects/3). To add things to this board, please add a card and post the URL to the apporiate issue :) 
 
 
+We are in the progress of creating a web-based help guide for how to use the Marketing Team GitHub. https://wpmarketingteam.github.io/index
 
 
+**The information below is for the group developing the GitHub repositories in the Marketing Team
 
-you can view it here: 
-https://wpmarketingteam.github.io/index
-
-You can use the [editor on GitHub](https://github.com/wpmarketingteam/wpmarketingteam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**You can use the [editor on GitHub](https://github.com/wpmarketingteam/wpmarketingteam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
