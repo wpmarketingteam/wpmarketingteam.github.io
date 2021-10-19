@@ -5,6 +5,18 @@ To view tasks displayed by what skills or background experience you may find use
 
 We are in the progress of creating a web-based help guide for how to use the Marketing Team GitHub. https://wpmarketingteam.github.io/index
 
+[Rolling tasks board](https://github.com/wpmarketingteam/Marcomms-Rolling-tasks/projects/2)
+
+[Series repository](https://github.com/wpmarketingteam/Marcomms-Series)
+[People of WordPress series board](https://github.com/wpmarketingteam/Marcomms-Series/projects/2)
+
+[WordPress Releases](https://github.com/wpmarketingteam/Marcomms-WP-Releases) - marketing, communications and community engagement resources / tasks 
+
+[Learn WordPress](https://github.com/wpmarketingteam/Marcomms-Learn-WP) - note these tasks will be incorporated into the rolling tasks board in the longer term.
+[Learn WordPress promotions taskboard](https://github.com/wpmarketingteam/Marcomms-Learn-WP/projects/2)
+
+
+
 
 **The information below is for the group developing the GitHub repositories in the Marketing Team
 
